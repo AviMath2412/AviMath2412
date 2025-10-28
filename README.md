@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+💫 About Me<br><br>I'm an engineering student passionate about building intelligent systems that blend AI, web, and data science. I enjoy solving real-world problems through clean code and smart design.<br><br>🔭 I'm currently working on<br><br>A FinTech AI platform for personalized insurance recommendations<br><br>A Battlefield Health & Environment Awareness System using IoT and ML<br><br>Portfolio website and full-stack side projects<br><br>🤝 I'm looking to collaborate on<br><br>AI/ML projects<br><br>Web and app development (MERN, Next.js, or Node.js)<br><br>Hackathon or open-source initiatives<br><br>🧩 I'm looking for help with<br><br>Optimizing large-scale ML models<br><br>API integrations for real-time analytics<br><br>🌱 I'm currently learning<br><br>Deep Learning with PyTorch<br><br>Cloud deployment (AWS, Vercel, Supabase)<br><br>System Design and Data Structures<br><br>💬 Ask me about<br><br>JavaScript, Node.js, React, and Next.js<br><br>Machine Learning, Data Science, and Python<br><br>Salesforce and FinTech innovation<br><br>⚡ Fun Fact<br><br>I turn complex tech problems into weekend projects and still find time to hike or swim.
 
-<!--
-**AviMath2412/AviMath2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/avi-mathur-a3a25727b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube.com/@avimathur9256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mathuravi668@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AviMath2412&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AviMath2412&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AviMath2412&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
