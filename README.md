@@ -1,5 +1,6 @@
 # 💫 About Me:
-💫 About Me<br><br>I'm an engineering student passionate about building intelligent systems that blend AI, web, and data science. I enjoy solving real-world problems through clean code and smart design.<br><br>🤝 I'm looking to collaborate on<br><br>AI/ML projects<br><br>Web development (MERN, Next.js, or Node.js)<br><br>Hackathon or open-source initiatives<br><br>💬 Ask me about<br><br>JavaScript, Node.js, React, and Next.js<br><br>Machine Learning, Data Science, and Python<br><br>⚡ Fun Fact<br><br>I turn complex tech problems into weekend projects and still find time to hike or swim.
+I'm an engineering student passionate about technology, innovation, and problem-solving. I enjoy exploring fields like artificial intelligence, web development, and data science to create solutions that make an impact. My focus is on building efficient, user-friendly, and scalable systems while continuously learning new tools and frameworks to stay ahead in the tech landscape.
+Beyond academics, I actively participate in hackathons, internships, and team projects that help me apply my skills to real-world challenges. I believe in learning by doing, collaborating with others, and turning ideas into tangible outcomes that contribute to both personal growth and community development.
 
 
 ## 🌐 Socials:
