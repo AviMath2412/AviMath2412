@@ -123,6 +123,7 @@ Farmer-first AI platform delivering **real-time mandi price queries** in Indian 
 | | |
 |---|---|
 | 🍎 **Apple Swift Student Challenge 2026 Winner** | Selected globally for *ScanSafe* — on-device allergen scanner using Apple Intelligence, VisionKit & Spatial UI |
+| 🤖 **Meta PyTorch OpenEnv Hackathon x Scaler** | Cleared Round 1 out of 52,000+ developers — headed to the Grand Finale in Bangalore, sponsored by Meta, PyTorch, and Hugging Face |
 | 🏦 **SBI Life Hack-AI-Thon** | Led technical team as a national hackathon finalist |
 | 💼 **EY Techathon 5.0** | Technical team lead |
 | 🇮🇳 **Smart India Hackathon 2025** | Volunteer, Grand Finale |
@@ -134,19 +135,6 @@ Farmer-first AI platform delivering **real-time mandi price queries** in Indian 
 - 🟠 **Oracle Cloud Infrastructure 2025** — Certified Generative AI Professional
 - 🟠 **Oracle AI Vector Search** — Certified Professional  
 - 🔵 **Walmart USA Advanced Software Engineering** — Virtual Experience (Jan 2026)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AviMath2412&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3b82f6&text_color=8b949e" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AviMath2412&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviMath2412&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-</div>
 
 ---
 
