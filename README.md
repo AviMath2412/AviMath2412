@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=200&section=header&text=Avi%20Mathur&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=ML%20Researcher%20%C2%B7%20RL%20%26%20Deep%20Learning%20%C2%B7%20Systems%20Design&descSize=17&descAlignY=67&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=200&section=header&text=Avi%20Mathur&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=ML%20Researcher%20%C2%B7%20RL%20%2B%20Deep%20Learning%20%C2%B7%20Systems%20Design&descSize=17&descAlignY=67&descColor=8b949e"/>
 
 </div>
 
@@ -9,8 +9,8 @@
 <div align="center">
 
 ```
-> loading avi.config.json ...
-> CGPA: 8.01 | Domain: AI × RL × Systems
+> initializing avi.config.json ...
+> Domain: AI × RL × Systems × Agentic AI
 > Status: Building things that learn, adapt, and scale.
 ```
 
@@ -22,7 +22,7 @@
 
 ## `whoami`
 
-I'm **Avi Mathur** — a CS (AI) undergrad at **Rajasthan Technical University**, Jaipur 🇮🇳, obsessed with making machines reason, adapt, and act.
+I'm **Avi Mathur** — an AI engineer obsessed with making machines reason, adapt, and act.
 
 - 🏆 **Apple Swift Student Challenge 2026 Winner** — built *ScanSafe*, an on-device allergen scanner powered by Apple Intelligence & VisionKit
 - 🤖 I implement RL algorithms **from scratch** — Bellman equations, policy gradients, the whole math
