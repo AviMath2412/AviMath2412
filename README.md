@@ -1,17 +1,174 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building AI-powered and full-stack web applications focused on real-world problem solving, scalability, and user impact, often through hackathons, internships, and self-driven projects.<br><br>👯 I’m looking to collaborate on<br>AI/ML projects, web platforms, open-source tools, and hackathon ideas where technology can create meaningful social or business impact.<br><br>🤝 I’m looking for help with <br>System design at scale, advanced machine learning workflows, and optimizing production-ready AI applications.<br><br>🌱 I’m currently learning<br>Advanced AI/ML concepts, modern web frameworks, cloud deployment, and best practices for building efficient, scalable systems.<br><br>💬 Ask me about<br>Artificial Intelligence, web development, data science, hackathons, project building, and turning ideas into deployable solutions.<br><br>⚡ Fun fact  <br>I believe the fastest way to learn is by building, most of my skills come from experimenting, breaking things, and fixing them better than before.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=200&section=header&text=Avi%20Mathur&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=ML%20Researcher%20%C2%B7%20RL%20%26%20Deep%20Learning%20%C2%B7%20Systems%20Design&descSize=17&descAlignY=67&descColor=8b949e"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/734052947662733356) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/avi-mathur-a3a25727b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AviMathur569420) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@avimathur9256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mathuravi668@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AviMath2412&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+```
+> loading avi.config.json ...
+> CGPA: 8.01 | Domain: AI × RL × Systems
+> Status: Building things that learn, adapt, and scale.
+```
+
+</div>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVjZ3N4b2Nud3BzZXg1cHRzMzNvbjhsY2Z2cGZ3aDQ1bnd6anZ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+## `whoami`
+
+I'm **Avi Mathur** — a CS (AI) undergrad at **Rajasthan Technical University**, Jaipur 🇮🇳, obsessed with making machines reason, adapt, and act.
+
+- 🏆 **Apple Swift Student Challenge 2026 Winner** — built *ScanSafe*, an on-device allergen scanner powered by Apple Intelligence & VisionKit
+- 🤖 I implement RL algorithms **from scratch** — Bellman equations, policy gradients, the whole math
+- 🌱 Currently designing **RL training environments** for knowledge-work agents
+- 🔬 Research interests: **Reinforcement Learning · Agentic Systems · NLP · AI for Social Good**
+- 📬 Reach me: `mathuravi668@gmail.com`
+
+<br clear="right"/>
+
+---
+
+## 🧠 Research Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📨 Email Triage RL Environment `2026`
+> *OpenEnv · Python · FastAPI · Docker · HF Spaces*
+
+Modelled email triage as a **high-stakes RL task** with 3 difficulty tiers. Designed a dense step-wise reward function decomposed into correctness, efficiency & routing accuracy — tackling the sparse-reward bottleneck in knowledge-work agents.
+
+**GPT-4o-mini zero-shot results:**
+- Easy: ~94% pass rate
+- Medium: ~80% pass rate  
+- Hard: ~90% pass rate
+
+</td>
+<td width="50%">
+
+### 🎮 DDPG — From Scratch `2025`
+> *Python · TensorFlow · RL Theory*
+
+Implemented Deep Deterministic Policy Gradient **from first principles** — actor-critic updates, experience replay, soft target network updates derived directly from the original paper.
+
+*No library abstractions. Pure math.*
+
+Bellman equations · Policy gradient theorem · Off-policy stability
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧬 NeuroScan AI `2025`
+> *Python · TensorFlow · Docker · CNN Architecture*
+
+High-accuracy CNN for **medical image classification** on imbalanced clinical data. Studied architectural tradeoffs: depth, skip connections, pooling. Containerized with a real-time prediction interface.
+
+</td>
+<td width="50%">
+
+### 🌾 Multilingual Mandi `2024`
+> *JavaScript · Ollama (LLaMA 3.2) · Multilingual NLP*
+
+Farmer-first AI platform delivering **real-time mandi price queries** in Indian regional languages. Voice-based queries with on-device NLP via Ollama — built to work in low-connectivity environments.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**AI / ML / RL**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3b82f6)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4dabf7)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=e879f9)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=f97316)
+
+**Systems & Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0ea5e9)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=10b981)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=fbbf24)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285f4)
+![Oracle Cloud](https://img.shields.io/badge/OCI-0d1117?style=for-the-badge&logo=oracle&logoColor=ef4444)
+
+**Languages & Web**
+
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599c)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+| | |
+|---|---|
+| 🍎 **Apple Swift Student Challenge 2026 Winner** | Selected globally for *ScanSafe* — on-device allergen scanner using Apple Intelligence, VisionKit & Spatial UI |
+| 🏦 **SBI Life Hack-AI-Thon** | Led technical team as a national hackathon finalist |
+| 💼 **EY Techathon 5.0** | Technical team lead |
+| 🇮🇳 **Smart India Hackathon 2025** | Volunteer, Grand Finale |
+
+---
+
+## 📜 Certifications
+
+- 🟠 **Oracle Cloud Infrastructure 2025** — Certified Generative AI Professional
+- 🟠 **Oracle AI Vector Search** — Certified Professional  
+- 🔵 **Walmart USA Advanced Software Engineering** — Virtual Experience (Jan 2026)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AviMath2412&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3b82f6&text_color=8b949e" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AviMath2412&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviMath2412&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/avi-mathur-a3a25727b/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AviMath2412)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://avimathur.tech)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:mathuravi668@gmail.com)
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AviMathur569420)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://youtube.com/@avimathur9256)
+
+</div>
+
+---
+
+<div align="center">
+
+*"I don't just use ML — I understand it from the math up."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a0a0f&height=100&section=footer&text=&animation=fadeIn"/>
+
+</div>
