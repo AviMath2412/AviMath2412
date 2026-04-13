@@ -68,7 +68,7 @@ Bellman equations · Policy gradient theorem · Off-policy stability
 <td width="50%">
 
 ### 🧬 NeuroScan AI `2025`
-> *Python · TensorFlow · Docker · CNN Architecture*
+> *Python · TensorFlow · Docker · CNN*
 
 High-accuracy CNN for **medical image classification** on imbalanced clinical data. Studied architectural tradeoffs: depth, skip connections, pooling. Containerized with a real-time prediction interface.
 
