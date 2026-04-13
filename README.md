@@ -122,7 +122,7 @@ Farmer-first AI platform delivering **real-time mandi price queries** in Indian 
 
 | | |
 |---|---|
-| 🍎 **Apple Swift Student Challenge 2026 Winner** | Selected globally for *ScanSafe* — on-device allergen scanner using Apple Intelligence, VisionKit & Spatial UI |
+|  **Apple Swift Student Challenge 2026 Winner** | Selected globally for *ScanSafe* — on-device allergen scanner using Apple Intelligence, VisionKit & Spatial UI |
 | 🤖 **Meta PyTorch OpenEnv Hackathon x Scaler** | Cleared Round 1 out of 52,000+ developers — headed to the Grand Finale in Bangalore, sponsored by Meta, PyTorch, and Hugging Face |
 | 🏦 **SBI Life Hack-AI-Thon** | Led technical team as a national hackathon finalist |
 | 💼 **EY Techathon 5.0** | Technical team lead |
