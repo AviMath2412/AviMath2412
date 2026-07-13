@@ -22,14 +22,14 @@
 
 AI & CSE undergrad building systems that **learn, reason, and act** — from Bellman equations up to production-grade multi-agent pipelines. Currently a **Data Science Intern at Celebal Technologies**, and a **Grand Finalist at the Meta x PyTorch OpenEnv Hackathon** among 52,000+ developers.
 
-- 🔭 Building an **agentic loan-advisory system** — LangGraph pipeline, persistent memory (SqliteSaver), critic/reflection loop
-- 🧠 Designing **RL environments** for knowledge-work agents (email triage, LLM-as-judge)
-- 🏆 **Apple Swift Student Challenge 2026 Winner** — *ScanSafe*, an on-device allergen scanner (Apple Intelligence + VisionKit)
-- 🌱 Research interests: **Reinforcement Learning · Agentic Systems · LLM Evaluation · NLP**
+- Building an **agentic loan-advisory system** — LangGraph pipeline, persistent memory (SqliteSaver), critic/reflection loop
+- Designing **RL environments** for knowledge-work agents (email triage, LLM-as-judge)
+- **Apple Swift Student Challenge 2026 Winner** — *ScanSafe*, an on-device allergen scanner (Apple Intelligence + VisionKit)
+- Research interests: **Reinforcement Learning · Agentic Systems · LLM Evaluation · NLP**
 
 ---
 
-### 🧠 Featured Research & Projects
+### Featured Research & Projects
 
 <div align="center">
 
@@ -77,13 +77,13 @@ CNN for medical image classification on imbalanced clinical data, containerized 
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,pytorch,fastapi,flask,nextjs,react,ts,postgres,mysql,docker,gcp,aws,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,fastapi,flask,nextjs,postgres,mysql,docker,gcp,aws,git&theme=dark" />
 
-`LangChain` · `LangGraph` · `RAG` · `Streamlit` · `Hugging Face Spaces` · `ChromaDB` · `Oracle Cloud`
+`LangChain` · `LangGraph` · `RAG` · `Streamlit` · `Hugging Face Spaces` · `ChromaDB` 
 
 </div>
 
@@ -102,7 +102,7 @@ CNN for medical image classification on imbalanced clinical data, containerized 
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
 | | |
 |---|---|
@@ -114,7 +114,7 @@ CNN for medical image classification on imbalanced clinical data, containerized 
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 `OCI 2025 Generative AI Professional` · `Oracle AI Vector Search Professional` · `AWS Academy Cloud Foundations` · `Walmart USA Advanced SWE (Forage)` · `McKinsey Forward Program`
 
